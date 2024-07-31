@@ -1,6 +1,6 @@
 experiment:
-    tokenizer_checkpoint: "tokenizer_titok_l32.bin"
-    generator_checkpoint: "generator_titok_l32.bin"
+    tokenizer_checkpoint: "../tokenizer_titok_l32.bin"
+    generator_checkpoint: "../generator_titok_l32.bin"
 
 model:
     vq_model:
